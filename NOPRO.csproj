@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<ApplicationIcon>NOPRO.ico</ApplicationIcon>
+
+		<!-- Настройки сборки в один файл -->
+		<PublishSingleFile>true</PublishSingleFile>
+		<IncludeNativeLibrariesForSelfContained>true</IncludeNativeLibrariesForSelfContained>
+
+		<!-- Дополнительная магия для жесткого скрытия нативных DLL внутри EXE -->
+		<IncludeSymbolsInSingleFile>false</IncludeSymbolsInSingleFile>
+		<UnmanagedRegistration>false</UnmanagedRegistration>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Page Remove="Themes\MainTheme.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Costura.Fody" Version="6.2.0">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Data.Sqlite" Version="11.0.0-preview.4.26230.115" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="NOPRO.ico" />
+		<Resource Include="Themes\MainTheme.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Properties\Settings.Designer.cs">
+			<DesignTimeSharedInput>True</DesignTimeSharedInput>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Settings.settings</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="Properties\Settings.settings">
+			<Generator>SettingsSingleFileGenerator</Generator>
+			<LastGenOutput>Settings.Designer.cs</LastGenOutput>
+		</None>
+	</ItemGroup>
+
+	<!-- УДАЛЕНО принудительное копирование MainWindow.xaml, так как оно ломало SingleFile -->
+
+</Project>

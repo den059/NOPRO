@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8YDi0HOWAQ=",
+  "success": true,
+  "projectFilePath": "E:\\Code\\Visual Studio\\newnopro\\NOPRO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deni$\\.nuget\\packages\\costura.fody\\6.2.0\\costura.fody.6.2.0.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\fody\\6.9.3\\fody.6.9.3.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.data.sqlite\\11.0.0-preview.4.26230.115\\microsoft.data.sqlite.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0-preview.4.26230.115\\microsoft.data.sqlite.core.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.27\\microsoft.net.illink.tasks.8.0.27.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.2\\sourcegear.sqlite3.3.50.4.2.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.27\\microsoft.aspnetcore.app.runtime.win-x64.8.0.27.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.27\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.27.nupkg.sha512",
+    "C:\\Users\\Deni$\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.27\\microsoft.netcore.app.runtime.win-x64.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

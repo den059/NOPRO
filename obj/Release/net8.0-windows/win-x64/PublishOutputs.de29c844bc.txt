@@ -1,0 +1,4 @@
+C:\Users\Deni$\Desktop\BUFFER\rew\NOPRO.pdb
+C:\Users\Deni$\Desktop\BUFFER\rew\NOPRO.dll.config
+C:\Users\Deni$\Desktop\BUFFER\rew\e_sqlite3.dll
+C:\Users\Deni$\Desktop\BUFFER\rew\NOPRO.exe
