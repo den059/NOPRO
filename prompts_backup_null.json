@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "CpMarker",
+    "Template": ""
+  },
+  {
+    "Name": "CpMainTitle",
+    "Template": ""
+  },
+  {
+    "Name": "CpAnchor",
+    "Template": ""
+  },
+  {
+    "Name": "CpOpinion",
+    "Template": ""
+  },
+  {
+    "Name": "CpMeta",
+    "Template": ""
+  },
+  {
+    "Name": "CpFAQ",
+    "Template": ""
+  },
+  {
+    "Name": "CpInCon",
+    "Template": ""
+  },
+  {
+    "Name": "CpSpell",
+    "Template": ""
+  },
+  {
+    "Name": "CpLegal",
+    "Template": ""
+  },
+  {
+    "Name": "CpNarr",
+    "Template": ""
+  },
+  {
+    "Name": "CpQuotes",
+    "Template": ""
+  },
+  {
+    "Name": "Cp\u0421hart",
+    "Template": ""
+  },
+  {
+    "Name": "CpBlockAd1",
+    "Template": ""
+  },
+  {
+    "Name": "CpBlockAd2",
+    "Template": ""
+  },
+  {
+    "Name": "TgInput",
+    "Template": ""
+  },
+  {
+    "Name": "TgConcl",
+    "Template": ""
+  },
+  {
+    "Name": "TgMeta",
+    "Template": ""
+  },
+  {
+    "Name": "TgTable",
+    "Template": ""
+  },
+  {
+    "Name": "TgFAQ",
+    "Template": ""
+  },
+  {
+    "Name": "TgAnchor",
+    "Template": ""
+  },
+  {
+    "Name": "TgOpinion",
+    "Template": ""
+  },
+  {
+    "Name": "TgAdd1",
+    "Template": ""
+  },
+  {
+    "Name": "TgAdd2",
+    "Template": ""
+  },
+  {
+    "Name": "CpMainPrompt",
+    "Template": ""
+  },
+  {
+    "Name": "RESOURCE_trash",
+    "Template": ""
+  },
+  {
+    "Name": "RESOURCE_NGtrash",
+    "Template": ""
+  },
+  {
+    "Name": "RESOURCE_bad_word",
+    "Template": ""
+  }
+]
